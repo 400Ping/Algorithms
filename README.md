@@ -1,2 +1,2 @@
 # Algorithms
-Repo for Algo
+Repository for Algorithms
